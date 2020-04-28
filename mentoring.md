@@ -1,10 +1,11 @@
 # Kodeks postępowania w programie mentoringowym
 
-Wszyscy uczestnicy, organizatorzy i mentorzy na w naszym programie mentoringowym są zobowiązani do zaakceptowania następującego kodeksu postępowania. Organizatorzy będą egzekwować te przepisy podczas wydarzenia. Oczekujemy współpracy od wszystkich uczestników w celu zapewnienia bezpiecznego środowiska dla każdego.
+Wszyscy uczestnicy, organizatorzy i mentorzy w naszym programie mentoringowym są zobowiązani do zaakceptowania następującego kodeksu postępowania. Organizatorzy będą egzekwować te przepisy podczas programu. Oczekujemy współpracy od wszystkich uczestników w celu zapewnienia bezpiecznego środowiska dla każdego.
 
 ## Szybka wersja
 
 Nasz program dedykowana jest dostarczaniu wolnych od nękania doświadczeń dla każdego, niezależnie od płci, orientacji seksualnej, niepełnosprawności, aparycji, wielkości ciała, rasy czy religii. Nie tolerujemy molestowania uczestników programu w żadnej formie. Seksistowski język oraz obraza innych uczestników jest nieodpowiednia dla jakiegokolwiek aktywności, włączając w Twittera i inne internetowe media. Uczestnicy programu nieprzestrzegający tych zasad mogą zostać ukarani lub wydaleni z programu za decyzją organizatorów.
+
 ## Mniej szybka wersja
 
 Nękanie obejmuje obraźliwe komentarze nawiązujące do płci, orientacji seksualnej, niepełnosprawności, aparycji, wielkości ciała, rasy, religii, obsceniczne obrazy w miejscach publicznych, celowe zastraszanie, prześladowanie, śledzenie, nękające zdjęcia lub nagrania, ciągłe zakłócanie przemówień lub innych wydarzeń, niestosowny kontakt fizyczny oraz molestowanie seksualne.
