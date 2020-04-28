@@ -1,4 +1,6 @@
-# confcodeofconduct
+# Azure Community Code Of Conduct
+
+- [mentoring](/mentoring.md)
 
 # Licence
 
